@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(17, 118, 124);
+}
+
+h1 {
+  color: rgb(9, 9, 208);
+  margin: 100px 500px 100px 500px;
+}
+
+h4 {
+  text-align: center;
+  color: rgb(106, 12, 12);
+}
+
+p {
+  border-style: dotted;
+  border-width: 2px;
+} 
+
+#firstname { 
+  background-color: chocolate;
+}
